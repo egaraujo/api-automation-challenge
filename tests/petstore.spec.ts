@@ -7,7 +7,7 @@ import { Order } from "./classes/order";
 
 test.describe("petstore", () => {
 
-  test("create ten pets and get the sold one", async ({ request }) => {
+  test("should create ten pets and get the sold one", async ({ request }) => {
 
     // Parte 1
     // Crear 10 mascotas:
@@ -65,7 +65,7 @@ test.describe("petstore", () => {
     expect(soldPetResponse.category).toEqual(createPetsList[soldPetIndex!].category);
   });
 
-  test("list available pets and create an order for each one", async ({ request }) => {
+  test("should list available pets and create an order for each one", async ({ request }) => {
   
   // Parte 2
   // Listar mascotas disponibles y guardar 5 de ellas en una estructura de datos.
