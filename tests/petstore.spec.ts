@@ -51,7 +51,7 @@ test.describe("petstore", () => {
 
     let pets = await response.json();
 
-    let soldPetResponse = pets.find(pet => pet.id === createdPets[createdPets.length - 1].id);
+    let soldPetResponse = pets.find(pet => pet.name === createdPets[createdPets.length - 1].name);
     let soldPetIndex = createPetsList.findIndex(soldPet => soldPet.status === petStatus);
     
     // assertions for sold pet
