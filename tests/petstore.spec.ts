@@ -65,7 +65,7 @@ test.describe("petstore", () => {
     expect(soldPetResponse.category).toEqual(createPetsList[soldPetIndex!].category);
   });
 
-  test("should list available pets and create an order for each one", async ({ request }) => {
+  test("should list available pets and select five to create an order for each one", async ({ request }) => {
   
   // Parte 2
   // Listar mascotas disponibles y guardar 5 de ellas en una estructura de datos.
