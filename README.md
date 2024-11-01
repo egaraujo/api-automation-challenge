@@ -8,6 +8,6 @@ This is a test suite in Playwright, for Swagger Petstore API
 ## Test cases
 ![screenshot](https://github.com/egaraujo/api-automation-challenge/blob/main/screenshot.png)  
 • Should create ten pets and get the sold one      
-• Should list available pets and create an order for each one  
+• should list available pets and select five to create an order for each one    
 ## Links
 Swagger Petstore API: https://petstore.swagger.io/
