@@ -1,0 +1,72 @@
+[
+  {
+    "CategoryName": "dogs",
+    "Name": "Bailey",
+    "PhotoUrls": "https://images.pexels.com/photos/2239063/pexels-photo-2239063.jpeg",
+    "TagName": "friendly",
+    "Status": "available"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Charly",
+    "PhotoUrls": "https://images.pexels.com/photos/1000602/pexels-photo-1000602.jpeg",
+    "TagName": "playful",
+    "Status": "available"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Lola",
+    "PhotoUrls": "https://images.pexels.com/photos/2832119/pexels-photo-2832119.jpeg",
+    "TagName": "adorable",
+    "Status": "available"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Max",
+    "PhotoUrls": "https://images.pexels.com/photos/3726314/pexels-photo-3726314.jpeg",
+    "TagName": "loyal",
+    "Status": "available"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Luna",
+    "PhotoUrls": "https://images.pexels.com/photos/342214/pexels-photo-342214.jpeg",
+    "TagName": "partner",
+    "Status": "available"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Zeus",
+    "PhotoUrls": "https://images.pexels.com/photos/3512/garden-dog-pet.jpg",
+    "TagName": "protective",
+    "Status": "pending"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Bella",
+    "PhotoUrls": "https://images.pexels.com/photos/2759564/pexels-photo-2759564.jpeg",
+    "TagName": "happy",
+    "Status": "pending"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Grace",
+    "PhotoUrls": "https://images.pexels.com/photos/14457244/pexels-photo-14457244.png",
+    "TagName": "lovely",
+    "Status": "pending"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Daisy",
+    "PhotoUrls": "https://images.pexels.com/photos/160846/french-bulldog-summer-smile-joy-160846.jpeg",
+    "TagName": "vigilant",
+    "Status": "pending"
+  },
+  {
+    "CategoryName": "dogs",
+    "Name": "Remingstone",
+    "PhotoUrls": "https://images.pexels.com/photos/786773/pexels-photo-786773.jpeg",
+    "TagName": "smart",
+    "Status": "sold"
+  }
+]
